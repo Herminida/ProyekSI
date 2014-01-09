@@ -1,0 +1,39 @@
+        .rowCount-grid
+        {
+            float: right;
+            font-size: 15px;
+            color: Red;
+            padding-right: 250px;
+        }
+        
+
+        td.expanded-group
+        {
+            background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/minus.jpg") no-repeat scroll left center transparent;
+        }
+        tr:hover td.expanded-group
+        {
+            background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/minus.jpg") no-repeat scroll left center #c0e1ff !important;
+        }
+        
+        td.collapsed-group
+        {
+            background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/plus.jpg") no-repeat scroll left center transparent;
+        }
+        tr:hover td.collapsed-group
+        {
+            background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/plus.jpg") no-repeat scroll left center #c0e1ff !important;
+        }
+          tr td.collapsed-group
+        {
+              background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/plus.jpg") no-repeat scroll left center #c0e1ff !important;
+        }
+         tr td.expanded-group
+        {
+              background: url("http://jquery-datatables-row-grouping.googlecode.com/svn/trunk/media/images/minus.jpg") no-repeat scroll left center #c0e1ff !important;
+
+        }
+        .DataTables_sort_wrapper span
+        {
+            float: right;
+        }

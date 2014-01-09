@@ -1,0 +1,31 @@
+1. loket
+username = loket
+
+2. farmasi
+username = farmasi
+
+3. apotek
+username = apotek
+	=========juga sebagai "Puskesmas Subengkok"========
+
+4. bidan
+username = bidan
+
+5. laporans
+username = laporans
+
+6. admin
+username = admin
+	==========juga sebagai "Dinas kesehatan kota tarakan"========
+
+7. gudang apotek
+username = gudang2
+	==========juga sebagai "Puskesmas Subengkok"=============
+
+8. Apotek
+username = apotek5
+	Juga sebagai "Puskesmas Pantai Amal"===========
+
+
+semua password = farmasi 
+
