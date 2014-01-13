@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Halaman Loket Rumah Sakit Jember</title>
+        <title>Rekam Medis Elektronik</title>
     
         <!-- Bootstrap framework -->
             <link rel="stylesheet" href="<?php echo base_url();?>bootstrap/css/bootstrap.css" />
@@ -149,7 +149,7 @@ $( "#loading").hide();
                 <div class="navbar navbar-fixed-top">
                     <div class="navbar-inner">
                         <div class="container-fluid">
-                            <a class="brand" href="<?php echo base_url();?>loket"><i class="icon-home icon-white"></i> LOKET JEMBER</a>
+                            <a class="brand" href="<?php echo base_url();?>loket"><i class="icon-home icon-white"></i> RME</a>
                             <ul class="nav user_menu pull-right">
                                 <!-- <li class="hidden-phone hidden-tablet">
                                     <div class="nb_boxes clearfix">
